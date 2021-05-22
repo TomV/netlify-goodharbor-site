@@ -1,19 +1,25 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
+  "base_url": "https://beta.goodharbor.org",
+  "site_title": "GoodHarbor.org Community Safety Policing Justice",
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Policing"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Safety"
     },
     {
-      "keyword": "React"
+      "keyword": "Law"
+    },
+    {
+      "keyword": "Justice"
+    },
+    {
+      "keyword": "Community"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@goodharbor_org",
+  "github_account": "goodharbor_org"
 }
