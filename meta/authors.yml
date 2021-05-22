@@ -1,6 +1,8 @@
 authors:
   - slug: steve
     name: Stephen Voltz
-    introduction:
-      Co-founder and CTO at GoodHarbor.org
-      Law / Community / Justice
+    introduction: Co-founder and CTO at GoodHarbor.org Law / Community / Justice
+  - slug: tom
+    name: Tom V
+    introduction: |
+      Building conversation automation tools with Ai
